@@ -1,0 +1,57 @@
+.sh-box {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 25px 0;
+    border-bottom: 1px solid rgb(221, 221, 221,0.5);
+    font-size: 19px;
+    color: #9f9f9f;
+    margin: 0 0 0 5px;
+}
+
+p {
+    color: #909090;
+}
+
+.sh-right {
+    float: right;
+    margin-right: 10px;
+    color: #484848;
+}
+
+.sh-small {
+    font-size: 18px;
+}
+
+.box {
+    justify-content: flex-end;
+}
+
+.price {
+    margin-bottom: 25px;
+}
+
+.int {
+    color: #6a6a6a;
+}
+
+.none {
+    padding: 13px 0px;
+    border-bottom: none;
+}
+
+.to {
+    padding-top: 13px;
+    /* padding-bottom: 40px; */
+}
+
+.sh-mid {
+    color: #404040;
+}
+
+.total {
+    border-bottom: none;
+    color: #000000;
+    font-weight: bold;
+}
